@@ -30,16 +30,8 @@ Após preencher os campos, ao clicar no botão **Cadastrar**, o nome e telefone 
 - Cada novo contato é inserido na primeira linha da tabela.
 - Após o cadastro, os campos de nome e telefone são limpos, e o foco é dado novamente ao campo de nome.
 
-### 3. Responsividade
-
-O layout é responsivo e adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
 
 ## Como Rodar
-
-### Pré-requisitos
-
-Certifique-se de que os arquivos estão na mesma pasta ou em um servidor local. Não há dependências externas além de uma conexão à internet para carregar o Google Fonts.
-
 ### Passos
 
 1. Clone o repositório ou baixe os arquivos.
