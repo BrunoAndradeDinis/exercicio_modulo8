@@ -23,7 +23,7 @@
           <input type="text" name="Nome" id="name" placeholder="Informe o nome" required>
         </div>
         <div>
-          <input type="tel" name="Telefone" id="tel" placeholder="Informe o Telefone" required>
+          <input type="tel" name="Telefone" id="tel" placeholder="Informe o Telefone" required min="11111111111" max="99999999999">
         </div>
 
         <div>
@@ -43,6 +43,14 @@
         <tbody>
           <!-- As linhas serão inseridas aqui  -->
         </tbody>
+        <tfoot>
+          <tr>
+            <th>
+              Quantidade de contatos
+            </th>
+            <td id="contatos"></td>
+          </tr>
+        </tfoot>
       </table>
     </section>
   </main>

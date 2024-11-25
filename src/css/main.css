@@ -122,3 +122,7 @@ tr:has(td):hover{
   cursor: pointer;
   transition: .3s ease;
 }
+
+tfoot th{
+  border-radius: 0 0 0 1rem;
+}
